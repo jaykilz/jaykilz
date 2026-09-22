@@ -60,27 +60,11 @@ I'm a **Software Engineering student** interested in building web applications a
 
 ## 🚀 Featured Projects
 
-### 💰 Personal Expense Management
-
-A web application for managing personal expenses and tracking spending.
-
-**Stack:** `React` · `Spring Boot` · `SQL Server`
-
----
-
 ### 🏢 Self Storage Management System
 
 A web-based system for managing storage facilities, storage units, reservations, and daily operations.
 
 **Stack:** `Java` · `Spring Boot` · `React` · `SQL Server`
-
----
-
-### 🚗 Smart Automated Car Wash
-
-A management system for automated car wash services with advance booking and customer loyalty features.
-
-**Stack:** `Java` · `React` · `SQL Server`
 
 ---
 
