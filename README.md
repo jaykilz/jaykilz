@@ -1,15 +1,13 @@
 <div align="center">
 
-# Hi, I'm Duy Khánh 👋
+# Hey, I'm Duy Khánh 👋
 
-### Software Engineering Student · Backend & Full-Stack Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=600\&lines=Software+Engineering+Student;Backend+%26+Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Learning+by+Building+Real+Projects)](https://git.io/typing-svg)
 
-*Building things, breaking things, and learning how to build them better.*
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-181717?style=flat-square\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-181717?style=flat-square\&logo=springboot\&logoColor=white)
-![React](https://img.shields.io/badge/React-181717?style=flat-square\&logo=react\&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-Duy_Kh%C3%A1nh-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)](https://spring.io/projects/spring-boot)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)](https://react.dev/)
 
 </div>
 
@@ -17,42 +15,46 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineering student** interested in building web applications and learning how different parts of a system work together.
+I'm a **Software Engineering student** interested in building web applications and understanding how real-world software systems work.
 
-* 💻 Backend & Full-Stack Development
+* 💻 Focused on **Backend & Full-Stack Development**
 * 🌱 Currently learning **Spring Boot & React**
-* 🧩 Interested in clean and practical solutions
-* 🚀 Learning through real projects
+* 🗄️ Working with **SQL Server & database design**
+* 🔧 Building projects to improve my programming and software engineering skills
+* 🚀 Learning by **building, testing, and solving real problems**
 
 ---
 
 ## ⚡ Tech Stack
 
-**Languages**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-181717?style=flat-square\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat-square\&logo=javascript\&logoColor=white)
-![C](https://img.shields.io/badge/C-181717?style=flat-square\&logo=c\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-181717?style=flat-square\&logo=sqlite\&logoColor=white)
+### Languages
 
-**Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-181717?style=flat-square\&logo=springboot\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-181717?style=flat-square\&logo=postman\&logoColor=white)
+### Backend
 
-**Frontend**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-![React](https://img.shields.io/badge/React-181717?style=flat-square\&logo=react\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat-square\&logo=javascript\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-181717?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-181717?style=flat-square\&logo=css3\&logoColor=white)
+### Frontend
 
-**Database & Tools**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-181717?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-181717?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-181717?style=flat-square\&logo=postman\&logoColor=white)
+### Database & Tools
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+</div>
 
 ---
 
@@ -60,35 +62,39 @@ I'm a **Software Engineering student** interested in building web applications a
 
 ### 💰 Personal Expense Management
 
-A simple web application for tracking and managing personal expenses.
+A web application for managing personal expenses and tracking spending.
 
-`React` · `Spring Boot` · `SQL Server`
+**Stack:** `React` · `Spring Boot` · `SQL Server`
+
+---
 
 ### 🏢 Self Storage Management System
 
-A web-based system for managing storage facilities, units, reservations, and operations.
+A web-based system for managing storage facilities, storage units, reservations, and daily operations.
 
-`Java` · `Spring Boot` · `React` · `SQL Server`
+**Stack:** `Java` · `Spring Boot` · `React` · `SQL Server`
+
+---
 
 ### 🚗 Smart Automated Car Wash
 
-A management system for automated car wash services with booking and customer loyalty features.
+A management system for automated car wash services with advance booking and customer loyalty features.
 
-`Java` · `React` · `SQL Server`
+**Stack:** `Java` · `React` · `SQL Server`
 
 ---
 
 ## 🌱 Currently Learning
 
-Currently focusing on **Spring Boot, REST APIs, React, database design, and software architecture** while building practical web applications.
+**Spring Boot · REST API · React · Database Design · Software Architecture · Git/GitHub**
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
 
 </div>
 
@@ -96,7 +102,7 @@ Currently focusing on **Spring Boot, REST APIs, React, database design, and soft
 
 <div align="center">
 
-### Learn by building. Build by solving.
+### Learn by Building. Build by Solving.
 
 <sub>Thanks for visiting my profile ✨</sub>
 
