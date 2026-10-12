@@ -74,11 +74,11 @@ A web-based system for managing storage facilities, storage units, reservations,
 
 ---
 
-## 📊 GitHub Stats
+GitHub Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaykilz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaykilz&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="GitHub Contribution Graph" width="100%" />
 
 </div>
 
