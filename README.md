@@ -74,8 +74,6 @@ A web-based system for managing storage facilities, storage units, reservations,
 
 ---
 
-## 🐱 Coding Cat
-
 <div align="center">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt1emFxYzR2ZmVjdzhhY3l4NXZzMDFvYXRrdmdwYjh0azM1dW4zMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P8ef3Dkynk0xLx1h1T/giphy.gif" alt="Coding Cat" width="300" />
