@@ -1,93 +1,93 @@
-<div align="center">
-
 # Hey, I'm Duy Khánh 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=600\&lines=Software+Engineering+Student;Backend+%26+Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Learning+by+Building+Real+Projects)](https://git.io/typing-svg)
+**Software Engineering Student | Backend Developer | Java & Spring Boot**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Duy_Kh%C3%A1nh-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)](https://spring.io/projects/spring-boot)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)](https://react.dev/)
+I enjoy building web applications, designing REST APIs, and learning how real-world software systems work.
 
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bennguyen-17)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineering student** interested in building web applications and understanding how real-world software systems work.
+- 🎓 Software Engineering student interested in backend development and system design.
+- ☕ Building backend applications with Java and Spring Boot.
+- 🔌 Learning to design and integrate REST APIs with React frontends.
+- 🗄️ Working with relational databases, SQL, and data modeling.
+- 🧪 Improving my skills through hands-on projects, debugging, and testing.
 
-* 💻 Focused on **Backend & Full-Stack Development**
-* 🌱 Currently learning **Spring Boot & React**
-* 🗄️ Working with **SQL Server & database design**
-* 🔧 Building projects to improve my programming and software engineering skills
-* 🚀 Learning by **building, testing, and solving real problems**
+## 🛠️ Tech Stack
 
----
+**Languages**
 
-## ⚡ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-<div align="center">
+**Backend & Database**
 
-### Languages
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+**Frontend & Tools**
 
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Database & Tools
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 🏢 Self Storage Management System
+### 🏢 Smart Self Storage Management System
 
-A web-based system for managing storage facilities, storage units, reservations, and daily operations.
+A web application for managing self-storage facilities, reservations, rental contracts, and staff operations.
 
-**Stack:** `Java` · `Spring Boot` · `React` · `SQL Server`
+**Key features**
+- 🔐 JWT-based authentication and role-based access control.
+- 📦 Storage unit and reservation management.
+- 📝 Rental contract and customer check-in workflows.
+- ⏰ Overdue contract processing and fee management.
+- 📋 Audit logging for manual gate operations.
+
+**Tech Stack:** Java · Spring Boot · React · TypeScript · MySQL
+
+**What I'm learning through this project:** REST API design, database relationships, transaction management, authentication, and frontend-backend integration.
+
+🔗 [View Repository](https://github.com/bennguyen-17/Smart_Self_Storage)
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Improving
 
-**Spring Boot · REST API · React · Database Design · Software Architecture · Git/GitHub**
+- Java and Spring Boot
+- REST API design and testing
+- Database design and SQL
+- React and TypeScript
+- Software architecture and clean code
+- Git and collaborative development
 
 ---
-
 <div align="center">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt1emFxYzR2ZmVjdzhhY3l4NXZzMDFvYXRrdmdwYjh0azM1dW4zMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P8ef3Dkynk0xLx1h1T/giphy.gif" alt="Coding Cat" width="300" />
 
-<p>🐾 Just a cat trying to fix bugs...</p>
+🐾 Just a cat trying to fix bugs...
 
 </div>
 
----
-
 <div align="center">
 
-### Learn by Building. Build by Solving.
+**Learn by Building. Build by Solving.**
 
-<sub>Thanks for visiting my profile ✨</sub>
+Thanks for visiting my profile! 
 
 </div>
